@@ -33,8 +33,8 @@ export default function ProjectItem({ data } :any){
         className="rounded-t-xl"
         src={imgSrc}
         alt="cover image"
-        width="100%"
-        height="50%"
+        width="100"
+        height="50"
         layout="responsive"
         objectFit="cover"
         quality={100}
